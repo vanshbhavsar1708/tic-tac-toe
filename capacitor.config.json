@@ -1,0 +1,19 @@
+{
+  "appId": "com.tictactoe.multiplayer",
+  "appName": "Tic Tac Toe",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "cordova": {},
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "https",
+    "hostname": "localhost",
+    "url": null,
+    "cleartext": true
+  }
+}
